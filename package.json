@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "sed -i \"s/^PORT=.*/PORT=$PORT/\" .env && npx directus start"
+    "start": "echo PORT=$PORT > .env && npx directus start"
   },
   "keywords": [],
   "author": "",
