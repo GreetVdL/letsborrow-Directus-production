@@ -2,6 +2,8 @@
 
 ## Final project for the Syntra AB Frontend Developer program [final year 2021-2022]
 
+![screenshot](./external-images/Directus-landingpage.png)
+
 **Final project**
 
 This is the code base of the administration panel of my **final project** for the Syntra Frontend Developer program [final year 2021-2022].
